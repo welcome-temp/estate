@@ -372,7 +372,8 @@ Header Style
 
 .background-header .main-nav .logo img {
   width: 159px;
-	height:10px;
+	height:200px;
+	top:10%;
 }
 
 .header-area .main-nav .nav {
