@@ -813,19 +813,19 @@ Banner Style
   transition: 0.3s;
 }
 #section-1 .content-slider .slider #top-banner-1 {
-  background: url('../images/banner-01.jpg') no-repeat center center;
+  background: url('../images/r.jpg') no-repeat center center;
   background-size: cover;
 }
 #section-1 .content-slider .slider #top-banner-2 {
-  background: url('../images/h.jpg') no-repeat center center;
+  background: url('../images/r1.jpg') no-repeat center center;
   background-size: cover;
 }
 #section-1 .content-slider .slider #top-banner-3 {
-  background: url('../images/h1.jpg') no-repeat center center;
+  background: url('../images/r3.jpg') no-repeat center center;
   background-size: cover;
 }
 #section-1 .content-slider .slider #top-banner-4 {
-  background: url('../images/h2.jpg') no-repeat center center;
+  background: url('../images/r2.jpg') no-repeat center center;
   background-size: cover;
 }
 #section-1 .content-slider nav {
