@@ -113,6 +113,7 @@ Global Styles
 */
 html,
 body {
+	background-color: #fff;
   background: #fff;
   font-family: 'Poppins', sans-serif;
 }
@@ -813,15 +814,15 @@ Banner Style
   transition: 0.3s;
 }
 #section-1 .content-slider .slider #top-banner-1 {
-  background: url('../images/r.jpg') no-repeat center center;
+  background: url('../images/r6.jpg') no-repeat center center;
   background-size: cover;
 }
 #section-1 .content-slider .slider #top-banner-2 {
-  background: url('../images/r1.jpg') no-repeat center center;
+  background: url('../images/r4.jpg') no-repeat center center;
   background-size: cover;
 }
 #section-1 .content-slider .slider #top-banner-3 {
-  background: url('../images/r3.jpg') no-repeat center center;
+  background: url('../images/r5.jpg') no-repeat center center;
   background-size: cover;
 }
 #section-1 .content-slider .slider #top-banner-4 {
