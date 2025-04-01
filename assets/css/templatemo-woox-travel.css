@@ -577,13 +577,14 @@ Header Style
 @media (max-width: 992px) {
   .header-area {
     top: 0;
+    height:200px;
   }
   .header-area .main-nav {
     background-color: transparent;
     border-radius: 0px;
   }
   .header-area .main-nav .nav {
-    height: 200px;
+    height: auto;
     flex-basis: 100%;
   }
   .header-area .main-nav .logo {
